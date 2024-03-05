@@ -15,6 +15,9 @@ int main()
 	}
 	cout << "Bilangannya adalah =" << nBilangan << endl;
 	cout << " statusnya adalah =" << status << endl;
+
+	return 0;
+
 }
 
 
