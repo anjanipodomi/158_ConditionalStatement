@@ -26,4 +26,6 @@ int main()
 	cout << "Bilangan Pertama adalah " << nBilanganA << endl;
 	cout << "Bilangan Kedua adalah " << nBilanganB << endl;
 	cout << "Status = " << status << endl;
+
+	return 0;
 }
